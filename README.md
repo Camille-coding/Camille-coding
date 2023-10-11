@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Camille-coding
+- 👀 I’m interested in biomechanics
+- 🌱 I’m currently studying biological engineering in France
+- 💞️ I’m looking to improve my programming skills on Python 
